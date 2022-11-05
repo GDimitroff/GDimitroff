@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you. 👋 </h1>
 
-I'm Gospodin, self-taught developer from <img src="https://img.icons8.com/color/512/bulgaria-circular.png" width="13"/> <b>Kotel, Bulgaria</b>.</p>
+I'm Gospodin, self-taught developer from <img src="https://img.icons8.com/color/512/bulgaria-circular.png" width="13"/> <b>Bulgaria</b>.</p>
 
 - 🌱 Love to build things with JavaScript and React.js
 - :sparkles: Dreaming of becoming a fullstack developer
