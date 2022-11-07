@@ -6,7 +6,7 @@ I'm Gospodin, self-taught developer from <img src="https://img.icons8.com/color/
 - :sparkles: Dreaming of becoming a fullstack developer
 - ⚡ Passionate about books, programming, gym, puzzles, papercraft
 - :heart: Kind people are my kinda people
-- 🌱 **Open to learning**
+- 🌱 **Open to learn**
 
 <h3>Things I code with</h3>
 <p>
