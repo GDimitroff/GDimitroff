@@ -1,4 +1,4 @@
-<h1>Hey! Nice to see you. 👋 </h1>
+<h1>Hey! 👋 </h1>
 
 I'm Gospodin, self-taught developer from <img src="https://img.icons8.com/color/512/bulgaria-circular.png" width="13"/> <b>Bulgaria</b>.</p>
 
