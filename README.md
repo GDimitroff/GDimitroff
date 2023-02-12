@@ -8,7 +8,7 @@ I'm Gospodin, self-taught developer from <img src="https://img.icons8.com/color/
 - :heart: Kind people are my kinda people
 - 🌱 **Open to learn**
 
-<h3>Things I code with</h3>
+<h3>I built things with</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
