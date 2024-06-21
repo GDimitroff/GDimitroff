@@ -3,7 +3,6 @@
 I'm Gospodin, self-taught developer from <img src="https://img.icons8.com/color/512/bulgaria-circular.png" width="13"/> <b>Bulgaria</b>.</p>
 
 - 🚀 Love to build things with JavaScript and React.js
-- :sparkles: Dreaming of becoming a fullstack developer
 - ⚡ Passionate about books, programming, gym, puzzles, papercraft
 - :heart: Kind people are my kinda people
 - 🌱 **Open to learn**
