@@ -2,10 +2,10 @@
 
 I'm Gospodin, self-taught developer from <img src="https://img.icons8.com/color/512/bulgaria-circular.png" width="13"/> <b>Bulgaria</b>.</p>
 
-- 🚀 Love to build things with TypeScript and React.js
+- 🚀 Love to build things with TypeScript and React
 - ⚡ Passionate about books, programming, gym, puzzles, papercraft
 - :heart: Kind people are my kinda people
-- 🌱 **Open to learn**
+- 🐲 **I am willing to be my biggest, best, and most powerful self.**
 
 <h3>I built things with</h3>
 <p>
