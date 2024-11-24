@@ -5,7 +5,7 @@ I'm Gospodin, self-taught developer from <img src="https://img.icons8.com/color/
 - 🚀 Love to build things with TypeScript and React
 - ⚡ Passionate about books, programming, gym, puzzles, papercraft
 - :heart: Kind people are my kinda people
-- 🥋 **I am willing to be my biggest, best, and most powerful self.**
+- 🥋 **I am willing to be my biggest, best, and most powerful self**
 
 <h3>I built things with</h3>
 <p>
